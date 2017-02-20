@@ -1,7 +1,7 @@
 package lv.romanpipchenko.restexample;
 
-import lv.ctco.ts.restexample.beans.Cat;
-import lv.ctco.ts.restexample.utils.JsonUtils;
+import lv.romanpipchenko.restexample.beans.Cat;
+import lv.romanpipchenko.restexample.utils.JsonUtils;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
